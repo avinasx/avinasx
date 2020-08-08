@@ -7,7 +7,7 @@
 **CodeChari/CodeChari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ⚡ Hi I am Avinash....
+- ⚡ I am Avinash....
 - 🌱 I’m a Full stack web-developer
 - 👯 Looking to collaborate on JavaSript and Python stack
 - 🔭 A Machine-learning enthusiast
