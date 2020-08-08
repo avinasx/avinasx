@@ -13,7 +13,6 @@
 - 🔭 A Machine-learning enthusiast
   
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=codechari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img src = "https://github-readme-stats.vercel.app/api?username=codechari&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codechari&hide=css,html&theme=tokyonight">
 
