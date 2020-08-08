@@ -3,7 +3,7 @@
 </div>
 
 ### Hi there 👋
-<div style="padding-left: 80px;">
+<div style="margin-left: 80px;">
 
 <!--
 **CodeChari/CodeChari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
