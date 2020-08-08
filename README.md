@@ -9,7 +9,7 @@
 
 - ⚡ I am Avinash....
 - 💻  I’m a Full stack web-developer
-- 👯  Looking to collaborate on JavaSript and Python stack
+- 👯  Looking to collaborate on JavaScript and Python stack
 - 🔭  A Machine-learning enthusiast
   
 
