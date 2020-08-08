@@ -1,6 +1,4 @@
-<div align="center">
 <img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.gif">
-</div>
 
 ### Hi there 👋
 
