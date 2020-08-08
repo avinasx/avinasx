@@ -1,17 +1,16 @@
 <div align="center">
 <img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.gif">
 </div>
-
-      ### Hi there 👋
+### Hi there 👋
 <div style="margin-left: 80px;">
 
 <!--
 **CodeChari/CodeChari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-      - ⚡ Hi I am Avinash....
-      - 🌱 I’m a Full stack web-developer
-      - 👯 Looking to collaborate on JavaSript and Python stack
-      - 🔭 A Machine-learning enthusiast
+- ⚡ Hi I am Avinash....
+- 🌱 I’m a Full stack web-developer
+- 👯 Looking to collaborate on JavaSript and Python stack
+- 🔭 A Machine-learning enthusiast
   
 </div>
 <div align="center">
