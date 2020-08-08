@@ -1,5 +1,5 @@
 
-<img src="https://github.com/CodeChari/CodeChari/blob/master/banner_3.png">
+<img src="https://github.com/CodeChari/CodeChari/blob/master/banner.gif">
 
 ### Hi there 👋
 
