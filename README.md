@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/CodeChari/CodeChari/blob/master/banner.gif">
+<img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.gif">
 
 ### Hi there 👋
 
