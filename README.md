@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.gif">
+</div>
 
 ### Hi there 👋
 
@@ -10,6 +11,8 @@
 - 🌱 I’m a Full stack web-developer
 - 👯 Looking to collaborate on JavaSript and Python stack
 - 🔭 A Machine-learning enthusiast
+
+<div align="center">
 
   <img align="center" style="display:block" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=codechari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
