@@ -12,10 +12,11 @@
 - 👯 Looking to collaborate on JavaSript and Python stack
 - 🔭 A Machine-learning enthusiast
   
-<div align="center">
+
   <img src = "https://github-readme-stats.vercel.app/api?username=codechari&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codechari&hide=css,html&theme=tokyonight">
-
+  
+<div align="center">
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@nklmarch17-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Avinymous)](https://twitter.com/nklmarch17) 
 -->
