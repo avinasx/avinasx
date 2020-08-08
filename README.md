@@ -1,7 +1,7 @@
+
+<img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.png">
+
 ### Hi there 👋
-
-<img src="https://github.com/CodeChari/CodeChari/blob/master/banner.png">
-
 
 <!--
 **CodeChari/CodeChari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
