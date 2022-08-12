@@ -8,7 +8,7 @@
 -->
 
 - ⚡ I am Avinash....
-- 💻  I’m a Full Engineer
+- 💻  I’m a Full-Stack Engineer
 - 👯  Looking to collaborate.
 - 🔭  A Machine-learning enthusiast
   
