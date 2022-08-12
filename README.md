@@ -8,8 +8,8 @@
 -->
 
 - ⚡ I am Avinash....
-- 💻  I’m a Full stack web-developer
-- 👯  Looking to collaborate on JavaScript and Python stack
+- 💻  I’m a Full Engineer
+- 👯  Looking to collaborate.
 - 🔭  A Machine-learning enthusiast
   
 
