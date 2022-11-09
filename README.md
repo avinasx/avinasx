@@ -1,4 +1,4 @@
-<img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.gif">
+<!-- <img src="https://github.com/CodeChari/CodeChari/blob/master/banner_1.gif"> -->
 
 ### Hi there 👋
 
