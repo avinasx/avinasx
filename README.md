@@ -12,11 +12,12 @@
 - 👯  Looking to collaborate.
 - 🔭  A Machine-learning enthusiast
   
+![](./stackoverflow.svg)
+<a href="https://stackoverflow.com/users/7338187/baremetal"><img src="https://stackoverflow.com/users/flair/7338187.png" width="208" height="58" alt="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
   <img src = "https://github-readme-stats.vercel.app/api?username=avinasx&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avinasx&hide=css,html&theme=tokyonight">
 
-![](./stackoverflow.svg)
 
   
 <div align="center">
