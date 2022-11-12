@@ -15,6 +15,9 @@
 
   <img src = "https://github-readme-stats.vercel.app/api?username=avinasx&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avinasx&hide=css,html&theme=tokyonight">
+
+![](./stackoverflow.svg)
+
   
 <div align="center">
 <!--
