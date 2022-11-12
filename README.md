@@ -13,8 +13,8 @@
 - 🔭  A Machine-learning enthusiast
   
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=codechari&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codechari&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=avinasx&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avinasx&hide=css,html&theme=tokyonight">
   
 <div align="center">
 <!--
