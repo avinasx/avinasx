@@ -16,8 +16,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avinasx&hide=css,html&theme=tokyonight">
   
   <div align="center">
-  <a href="https://stackoverflow.com/users/7338187/baremetal" targe="_blank"><img src="https://stackoverflow.com/users/flair/7338187.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-  
+<!--   <a href="https://stackoverflow.com/users/7338187/baremetal" targe="_blank"><img src="https://stackoverflow.com/users/flair/7338187.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+   -->
   <a href="https://unix.stackexchange.com/users/275556/baremetal" targe="_blank"><img src="https://unix.stackexchange.com/users/flair/275556.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems" title="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems"></a>
 </div>
 
