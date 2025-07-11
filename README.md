@@ -28,7 +28,7 @@
 -->
 LinkedIn
 
-[![Linkedin Badge](https://img.shields.io/badge/-avinash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-kumar-shudhanshu-3aa13327/)](https://www.linkedin.com/in/avinash-kumar-shudhanshu-3aa13327/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-kumar-shudhanshu-3aa13327/)](https://www.linkedin.com/in/avinash-kumar-shudhanshu-3aa13327/)
 <!--
 [![Medium Badge](https://img.shields.io/badge/-@nerdynikhil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nerdynikhil/)](https://medium.com/@nerdynikhil)
 -->
