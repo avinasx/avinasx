@@ -8,7 +8,7 @@
 -->
 
 - ⚡ I am Avinash....
-- 💻  I’m a Backend Oriented Full-Stack AI Engineer
+- 💻  I’m a Backend Oriented Full-Stack Gen-AI Engineer
 - 👯  Looking to collaborate.
 - 🔭  A Machine-learning enthusiast
   
