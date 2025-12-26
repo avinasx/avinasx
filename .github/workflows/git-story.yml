@@ -30,15 +30,20 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install git-story
+      - name: Install dependencies
         run: |
-          pip install git-story
+          pip install git-story requests
+
+      - name: Generate Synthetic Multi-Repo History
+        run: |
+          python3 scripts/generate_poly_repo.py
 
       - name: Generate Git Story Video
         run: |
-          # Generate the video
-          # We use a custom media dir to locate it easily
-          git-story --media-dir ./git_story_output --commits 10
+          # Run git-story in the generated repo
+          cd combined_activity_repo
+          # We increase commits count to capture more history since we have multiple branches
+          git-story --commits 20 --media-dir ../git_story_output --invert-branches --title "My GitHub Activity"
 
       - name: Convert to GIF
         run: |
