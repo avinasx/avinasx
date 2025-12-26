@@ -31,7 +31,18 @@
 <!--
 [![Medium Badge](https://img.shields.io/badge/-@nerdynikhil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nerdynikhil/)](https://medium.com/@nerdynikhil)
 -->
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,anaconda, androidstudio, ansible, apple, arch, arduino, aws, azure, babel, bash, bitbucket, bootstrap, c, cs, cpp, cassandra, clojure, cloudflare, cmake, codepen, css, d3, debian, discord, bots, django, docker, dynamodb, elasticsearch, express, fastapi, figma, firebase, flask, gcp, git, github, githubactions, gitlab, gmail, go, godot, grafana, graphql, gtk, heroku, html, htmx, idea, ai, java, js, jenkins, jest, jquery, kafka, kali, kubernetes, laravel, latex, linkedin, linux, matlab, mongodb, mysql, nestjs, nextjs, nginx, nix, nodejs, notion, npm, obsidian, opencv, openshift, openstack, php, phpstorm, pnpm, postgres, postman, powershell, prisma, processing, prometheus, pycharm, py, pytorch, rabbitmq, raspberrypi, react, redhat, redis, regex, replit, sass, spring, sqlite, stackoverflow, sublime, supabase, scala, sklearn, selenium, sentry, svg, symfony, tailwind, tensorflow, terraform, threejs, ts, ubuntu, vercel, vim, vite, vscode, wasm, webflow, webpack, webstorm, windows, wordpress, workers, yarn,webstorm,windows,wordpress,workers,yarn&perline=14" />
+  </a>
+</p>
 
 </div>
 
