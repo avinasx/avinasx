@@ -20,11 +20,7 @@
 
   <a href="https://unix.stackexchange.com/users/275556/baremetal" targe="_blank"><img src="https://unix.stackexchange.com/users/flair/275556.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems" title="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems"></a>
 
-<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-
 </div>
 
 
