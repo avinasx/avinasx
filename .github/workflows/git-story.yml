@@ -1,0 +1,67 @@
+name: Generate Git Story
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual run
+
+permissions:
+  contents: write
+
+jobs:
+  generate-story:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Important to get history for git-story
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential python3-dev libcairo2-dev libpango1.0-dev ffmpeg
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install git-story
+        run: |
+          pip install git-story
+
+      - name: Generate Git Story Video
+        run: |
+          # Generate the video
+          # We use a custom media dir to locate it easily
+          git-story --media-dir ./git_story_output --commits 10
+
+      - name: Convert to GIF
+        run: |
+            # Find the generated mp4
+            MP4_FILE=$(find ./git_story_output -name "*.mp4" | head -n 1)
+            if [ -f "$MP4_FILE" ]; then
+              echo "Converting $MP4_FILE to gif..."
+              # Convert to gif
+              # fps=15 for decent smoothness, scale relative to keep aspect ratio
+              ffmpeg -y -i "$MP4_FILE" -vf "fps=15,scale=800:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" git-story.gif
+            else
+              echo "No MP4 found!"
+              exit 1
+            fi
+
+      - name: Cleanup
+        run: |
+          rm -rf git_story_output
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add git-story.gif
+          git commit -m "Update Git Story animation" || echo "No changes to commit"
+          git push

@@ -32,7 +32,11 @@
 [![Medium Badge](https://img.shields.io/badge/-@nerdynikhil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nerdynikhil/)](https://medium.com/@nerdynikhil)
 -->
 
+
 </div>
 
-
+### 📜 Git History
+<div align="center">
+  <img src="git-story.gif" alt="Git Story Animation" width="100%" />
+</div>
 
