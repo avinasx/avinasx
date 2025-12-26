@@ -1,11 +1,8 @@
 name: Generate Git Story
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 0,12 * * *' # Runs daily at 00:00 and 12:00 UTC
   workflow_dispatch: # Allows manual run
 
 permissions:
