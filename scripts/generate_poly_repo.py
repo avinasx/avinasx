@@ -1,4 +1,5 @@
 import os
+import sys
 import requests
 import subprocess
 from datetime import datetime, timezone
@@ -26,7 +27,7 @@ def main():
         events = resp.json()
     except Exception as e:
         print(f"Error fetching GitHub events: {e}")
-        return
+        sys.exit(1)
 
     # Filter for PushEvents
     push_events = [e for e in events if e["type"] == "PushEvent"]
@@ -36,7 +37,10 @@ def main():
 
     if not push_events:
         print("No recent push events found.")
-        return
+        # Create dummy repo so workflow doesn't fail on CD, 
+        # but warn that it will be empty.
+        # Actually better to fail so user knows why no video.
+        sys.exit(1)
 
     print(f"Found {len(push_events)} push events. Generating synthetic history...")
 
