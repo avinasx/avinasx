@@ -19,11 +19,15 @@
 <a href="https://stackoverflow.com/users/7338187/baremetal" targe="_blank"><img src="https://stackoverflow.com/users/flair/7338187.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for bareMetal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
   <a href="https://unix.stackexchange.com/users/275556/baremetal" targe="_blank"><img src="https://unix.stackexchange.com/users/flair/275556.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems" title="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems"></a>
-</div>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
+
+</div>
+
+
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@nklmarch17-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Avinymous)](https://twitter.com/nklmarch17) 
 -->
