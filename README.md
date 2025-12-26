@@ -21,8 +21,8 @@
   <a href="https://unix.stackexchange.com/users/275556/baremetal" targe="_blank"><img src="https://unix.stackexchange.com/users/flair/275556.png?theme=dark" width="208" height="58" alt="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems" title="profile for bareMetal at Unix &amp; Linux Stack Exchange, Q&amp;A for users of Linux, FreeBSD and other Un*x-like operating systems"></a>
 </div>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<div align="center">
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-@nklmarch17-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Avinymous)](https://twitter.com/nklmarch17) 
 -->
