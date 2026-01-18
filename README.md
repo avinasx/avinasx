@@ -8,9 +8,9 @@
 -->
 
 - ⚡ I am Avinash....
-- 💻  I’m a Backend Oriented Full-Stack Gen-AI Engineer
+- 💻  I’m a Backend Oriented Full-Stack Gen-AI Engineer/Architect
 - 👯  Looking to collaborate.
-- 🔭  A Machine-learning enthusiast
+- 🔭  Robotics enthusiast
   
  <!--  <img src = "https://github-readme-stats.vercel.app/api?username=avinasx&show_icons=true&theme=radical&line_height=27"> -->
  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avinasx&hide=css,html&theme=tokyonight"> -->
